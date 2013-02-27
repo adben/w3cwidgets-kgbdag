@@ -8,7 +8,7 @@
   <description>Widget that uses a simple rest client</description>
   <content src="index.html"/>
   <icon src="images/rest.jpg"/>
-  <author>hier je naam</author>
+  <author>Adolfo Benedetti</author>
   <access origin="https://ontwikkelstraat.iprofs.nl/svn/iprofs/nl/iprofs/kgb/20130227/w3cwidgets"/>  
   <license>Free to use and distribute</license>
 </widget>
