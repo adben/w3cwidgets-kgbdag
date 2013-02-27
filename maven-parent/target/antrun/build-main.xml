@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <ac:if xmlns:ac="antlib:net.sf.antcontrib">
+    <available file="/Users/abenedetti/Documents/iprofs/w3cwidgets/maven-parent/src/main/resources" type="dir"/>
+    <then>
+      <zip basedir="/Users/abenedetti/Documents/iprofs/w3cwidgets/maven-parent/src/main/resources" destfile="/Users/abenedetti/Documents/iprofs/w3cwidgets/maven-parent/target/widget-parent.wgt"/>
+      <copy todir="${wookie.deploy.dir}" file="/Users/abenedetti/Documents/iprofs/w3cwidgets/maven-parent/target/widget-parent.wgt"/>
+    </then>
+  </ac:if>
+</target>
+</project>
