@@ -5,7 +5,7 @@
     <available file="/Users/abenedetti/Documents/iprofs/w3cwidgets/opdracht2/src/main/resources" type="dir"/>
     <then>
       <zip basedir="/Users/abenedetti/Documents/iprofs/w3cwidgets/opdracht2/src/main/resources" destfile="/Users/abenedetti/Documents/iprofs/w3cwidgets/opdracht2/target/widget-api-widget-classroom.wgt"/>
-      <copy todir="/Users/abenedetti/Documents/iprofs/w3cwidgets/opdracht1/~/Dev/Soft/apache-wookie-0.13.1-standalone/build/webapp/wookie/deploy/" file="/Users/abenedetti/Documents/iprofs/w3cwidgets/opdracht2/target/widget-api-widget-classroom.wgt"/>
+      <copy todir="/Users/abenedetti/Dev/Soft/apache-wookie-0.13.1-standalone/build/webapp/wookie/deploy/" file="/Users/abenedetti/Documents/iprofs/w3cwidgets/opdracht2/target/widget-api-widget-classroom.wgt"/>
     </then>
   </ac:if>
 </target>
