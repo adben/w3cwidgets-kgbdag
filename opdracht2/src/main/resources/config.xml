@@ -8,7 +8,7 @@
   <description>widget with basic api usage</description>
   <content src="index.html"/>
   <icon src="images/aapje.jpg"/>
-  <author>hier je naam</author>
+  <author>Adolfo Benedetti</author>
   <access origin="https://ontwikkelstraat.iprofs.nl/svn/iprofs/nl/iprofs/kgb/20130227/w3cwidgets"/>  
   <license>Free to use and distribute</license>
 </widget>
